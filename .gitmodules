@@ -1,0 +1,3 @@
+[submodule "service2-FE"]
+	path = service2-FE
+	url = https://github.com/yunTum/service2-FE.git
